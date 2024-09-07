@@ -8,7 +8,7 @@
 
 - **runtime:** Add support for handling `com.facebook.react.bridge.Dynamic` as parameter for TurboModules ([45cd81706d](https://github.com/facebook/react-native/commit/45cd81706d2c9ef7b792a716298cefa92ca2773a) by [@cortinico](https://github.com/cortinico))
 
-### Changed
+### Change
 
 #### Android specific
 
